@@ -1,0 +1,6 @@
+typedef struct bitfield{
+  char block4;
+  char block3;
+  char block2;
+  char block1;
+}

@@ -1,0 +1,4 @@
+typedef struct bus{
+  // TODO: Implement
+  char TODO;
+}bust_t
