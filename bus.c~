@@ -1,3 +1,0 @@
-void write(bus_t bus, uint16_t addr, uint8_t data){
-  bus->ram[addr] = data;
-}
